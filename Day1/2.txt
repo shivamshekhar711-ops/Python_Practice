@@ -1,0 +1,41 @@
+DAY: 1
+## Programming Language:-
+=> a programming language is just like a formal language that devlopers use to communicate with computers.
+
+TYPES:-
+
+1. High level Programming language:-
+=> it is software oriented/related.
+
+=> it is used to devlop a website, software, gaming development, AI and machine learning, Data analyst etc.
+
+Example: C++, Java, Python, JavaScript, PHP etc.
+
+
+2. Low level Language:-
+=> it is hardware oriented/related.
+=> it is used in Washing machine, Induction, MOuse, keyboard, Joystick etc.
+
+=> Example: Machine language, Assembly language etc.
+
+NOTE: C , it is used to build operating system.
+=> Mac, WIndow..........
+
+
+
+============ HIgh Level Programming language ========
+
+
+## application :-
+
+=> an application is a type of software that is designed to perform any specific task. 
+
+Types:-
+
+
+1. Web application:-
+=> it requires an internet connection.
+=> it runs inside any browser.
+=> it is platform independent.
+NOte: Platform( operating system)
+Example: https://www.biharjobportal.com/
