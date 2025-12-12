@@ -1,0 +1,71 @@
+Day: 5
+—-----------
+Variables:- 
+=> it is just like a container that stores some values.
+
+
+## Water Container => it contains some quantity of water.
+
+ a = 5 Mangoes  , 
+
+x = 10   , x => Variable , 10 => value
+
+
+## Rules to declare a variable :-
+
+1. Variable name always begins with characters, and underscore.
+
+NOtes: character OR alphabets OR Letters
+
+Example: my_name = "Rudra"   => Right
+
+        name1 = "Tridev"    => Right
+
+        2name = "Vicky"     => Wrong
+
+2. Variable names always contain letters , numbers and underscore. it can not contain whitespace and any special characters.
+
+Special Character: #, ? , /, ~, ! , @ ..........
+
+Example:   #my_name = "Vikram"  => wrong
+
+           name@ = "Tridev"     => wrong
+           first_name = "Shivam"  => right
+           last~name = "Prem"      => wrong
+
+3. Keywords are not allowed to declare a variable.
+=> the words that are predefined in any Programming language.
+Example: if, for, else, elif, is , break, continue.....................
+
+
+Example: -
+print = "Hello, World!"   ## error
+
+print(print)
+
+4. variable name is case sensitive.
+
+NOTE: Except Structured Query Language(SQL), almost all programming languages are case sensitive languages.
+
+Upperscase => Capital letter
+Lowercase => Small letter 
+
+Example: -
+x = 11
+X = 22222
+
+print(x)
+print(X)
+
+here , we can say small x and capital X are two different variables because python is case sensitive language.
+
+5. Variable names should always be meaningful.
+
+Example: student_name, emp_name.........
+
+Student Registration form , EMployee registration form 
+
+
+name Or student_name
+
+name OR employee_name
