@@ -1,0 +1,38 @@
+Day: 14
+
+Git Hub Setup
+
+Install And Download Git From down Video:-
+
+Youtube Video :- https://youtu.be/t2-l3WvWvqg?si=28nKPOT6q982TMzr
+
+CMD:-                                                                                                                                                                                                                                               git config --global user.name "enter your username"
+
+git config --global user.email "enter your email"
+
+git config --global user.email
+git config --global user.name
+
+git --version
+
+Double Click On Folder:- 
+
+Then Type :- cmd
+
+Then :- code .
+
+Create New File :- nab.html
+
+Open New Terminal
+
+Type These All Command One Bye One :-
+git init
+git add .
+git status
+git commit -m "first commit"
+
+git branch -M main
+git remote add origin https://github.com/TridevSharma1/tridev.git
+git push -u origin main
+
+Then Open In chrome And Publish It
