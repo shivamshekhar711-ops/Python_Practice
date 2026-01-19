@@ -1,0 +1,179 @@
+DAY: 24
+
+# a = 10 
+# b = 20 
+# print(a + b)  # 30 
+
+
+input() => it is used to take data from the user side .
+=> it is similar like scanf which is used in C language. 
+=> By default it gives us String value. 
+=> that's why we have to specify the data type whatever we want in the result.
+
+
+scanf => it is used to take data from user. 
+
+
+
+# a = 10 
+# b = 20 
+# print(a + b)  # 30 
+
+
+
+# first_name = input("HII guys! please enter your first name: ")
+# last_name = input("Hii guys! please enter your last name: ")
+
+# print(first_name, " ", last_name)
+
+# Rohitxyz  Rohit xyz
+
+# # Data type : - 
+# int => 22,344,44
+# float => 33.4, 5.6
+# String => "Tridev", "Amit", 'A', "THis is Sourabh"
+# boolean => True , False
+
+
+# name = input("hii! please enter your name: ")
+# age = int(input("hii! please enter your age:"))
+
+# print(name, "", age)
+
+
+
+# name = input("hii! please enter your name: ")
+# age = int(input("hii! please enter your age:"))
+
+# print(name, "", age)
+
+# print("your name is : ", name )
+# print("your age is : ", age)
+
+
+# print("rohit", "Tridev")
+
+# for i in range(4):
+#                     print(i) # 0,1,2,3
+
+# i => loop variable 
+# starting point => 0
+# ending point => 4 (excluded)
+# gap = 1
+# Actual Range( 0 - 3)
+
+# output => 0,1,2,3
+
+
+
+# for i range(8,12):
+#                     print(i)
+
+# i => loop variable 
+# starting point => 8
+# ending point => 12 ( Excluded)
+# gap = 1
+# Actual range( 8 - 11)
+# Output => 8,9,10,11
+
+
+
+# for i in range(1,10,2):
+#                     print(i)
+
+# i => loop variable 
+# starting point => 1
+# ending point => 10 (excluded)
+# gap => 2 => n-1 => 2-1 => 1 , that mean we have to skip one element.
+
+# Actual range( 1 - 9 )
+
+# output => 1, 3, 5, 7, 9
+
+
+
+# write a program to print the table of 11. 
+
+# for i in range(11,111,11):
+#                     print(i)
+
+# i => loop variable 
+# starting point => 11
+# ending point => 111 (excluded)
+# gap => 11 => n-1 => 11-1 => 10 , that mean we have to skip 10 elements.
+
+# Actual range( 11 - 110 )
+
+# output => 11,22, 33..........
+
+
+
+# starting point => 0
+# ending point ( Excluded)
+# Gap => N-1 ( by default gap = 1 )
+
+
+# Note: 
+# 1. by default starting point will be 0 
+# 2. By default Gap will be 1
+
+# while loop :- 
+
+
+# Python does not support increment operator or decrement operator 
+
+# => i++ => Post increment 
+# => ++i => pre increment
+# => --i => pre decrement
+# => i-- => post decrement
+
+
+# i++ OR i = i+1 OR  i += 1 => these are same thing
+
+# example of C language 
+#include <stdio.h>
+
+# int main() {
+#     int i = 3;
+
+#     printf("%d", i++);
+#     printf("\n");
+#     printf("%d", i);
+#     return 0;
+# }
+
+# here we get the output = 3 
+# because the priority of post increment is less than print statement.
+
+
+# #include <stdio.h>
+
+# int main() {
+#     int i = 3;
+
+#     printf("%d", ++i);
+#     printf("\n");
+#     printf("%d", i);
+    
+
+#     return 0;
+# }
+
+# while loop 
+
+
+# i++ OR i = i+1 OR  i += 1 => these are same thing
+
+# i = 0
+
+# while(i<5):
+#                     print(i)
+#                     i = i + 1
+
+
+i = 0
+
+while(i<5):
+                    print(i)
+                    i += 1
+
