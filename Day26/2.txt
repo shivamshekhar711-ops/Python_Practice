@@ -1,0 +1,173 @@
+DAY: 26
+
+# for i in range(5):
+#                     print(i)
+
+# i => loop variable 
+
+# # 0 ,1,2,3,4
+
+
+# how to apply for loop in a list 
+
+#          0   1  2  3  4  5
+# my_list = [22,33,44,55,66,67]
+
+# for i in my_list:
+#                     print(i)
+
+# i = loop variable 
+
+
+# for i in range(5):
+#                     print(i)
+
+# i => loop variable 
+
+# 0 ,1,2,3,4
+
+
+
+#               0        1     2  3  4
+# my_list = ["Sachin", "Rohan", 33,44,55]
+
+# for i in my_list:
+#                     print(i)
+
+
+# how to apply for loop in any String 
+
+# my_word = "Programming"
+
+# for i in my_word:
+#                     print(i)
+
+
+
+# my_sentence = "AYush is a good guy"
+
+# for i in my_sentence:
+#                     print(i)
+
+# print(my_sentence)
+
+
+# list => add , delete , 
+
+# string => add or delete 
+
+
+
+# Mutable :-
+# => that means changable 
+# => it can change specifically as well as entirely . 
+# Example : List, dictionary. 
+
+
+# Example 
+
+# my_list = [11,22,33,44]
+# my_list.pop()
+# print(my_list)
+
+# ----------------------------------------------------- 
+# my_list = [11,22,33,44]
+# print(my_list)
+
+# my_list[2] = 3333
+
+# print(my_list)
+
+
+# Tuple :- 
+
+# => it can store any type of data similar as List .
+# => it is Immutable 
+
+
+# tupleee = (22,33,44,55,"Rudra", 6.7)
+
+# print(tupleee)
+
+
+# indexing => positive , NEgative indexing 
+
+# tupleee = (22,33,44,55,"Rudra", 6.7)
+
+# print(tupleee)
+
+# print(tupleee[2])
+# print(tupleee[4])
+
+
+
+
+# tupleee = (22,33,44,55,"Rudra", 6.7)
+
+# print(tupleee)
+
+# for i in tupleee:
+#                     print(i)
+
+
+
+# Tuple methods 
+
+# In Python, tuple has only two methods.
+
+# 1. count 
+# 2. index 
+
+
+# tupleee = (22,33,44,55,"Rudra", 6.7, "Rudra")
+
+# print(tupleee.count("Rudra"))
+
+
+
+tupleee = (22,33,44,55,"Rudra", 6.7, "Rudra")
+
+print(tupleee.index("Rudra"))
+
+# Immutable :-
+# => that means not changeable 
+# => it can change only entirely . 
+# => it can't change specifically .
+# Example: String, tuple 
+
+
+# my_name = "Ayush"
+
+# print(my_name[2])  # u 
+
+# my_name[2] = "o"
+
+# print(my_name)
+
+
+
+# ---------------------------- 
+
+
+# my_name = "Ayush"
+
+# print(my_name)
+
+# my_name = "Vicky"
+
+# print(my_name)
+
+H.W
+1.how to apply for loop on list , string and tuple.
+2. Mutable and immutable 
+3. what is Tuple. and indexing in tuple and its methods. 
+
+
+
+1. list is mutable , prove it . 
+2. tuple is immutable , prove it. 
+3. what is mutable and immutable . 
+4. how to apply for loop in your name 
+5. how to apply for loop in any list . 
+6. how to apply for loop in any tuple .
+
